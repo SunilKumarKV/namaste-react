@@ -1,0 +1,15 @@
+#child {
+  color: red;
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+#child2 {
+  color: yellow;
+  background-color: skyblue;
+  padding: 10px;
+}
+
+h1 {
+  color: green;
+}
