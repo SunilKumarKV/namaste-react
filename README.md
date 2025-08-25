@@ -39,3 +39,16 @@ Namaste React course notes provide concise, hands-on insights into React develop
 - Read about `Script types in html` (MDN Docs)
 
 ---
+
+## 📚 [Chapter 03 - Laying the foundation](https://github.com/SunilKumarKV/namaste-react/tree/main/Episode%20-%2002%20-%20Igniting%20our%20App)
+
+- `JSX`
+- `React.createElement` vs `JSX`
+- `Benefits of JSX`
+- `Behind the Scenes of JSX`
+- `Babel` & `parcel` role in JSX
+- `Components`
+- `Functional Components`
+- `Composing Components`
+
+---
