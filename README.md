@@ -52,3 +52,28 @@ Namaste React course notes provide concise, hands-on insights into React develop
 - `Composing Components`
 
 ---
+
+## 📚 [Chapter 04 - Talk is Cheap, show me the code](https://github.com/SunilKumarKV/namaste-react/tree/main/Episode%20-%2004%20-%20Talk%20is%20cheap%2C%20show%20me%20the%20code)
+
+- Is `JSX` mandatory for React?
+- Is `ES6` mandatory for React?
+- `{TitleComponent}` vs `{<TitleComponent/>}` vs `{<TitleComponent></TitleComponent>}` in `JSX`.
+- How can I write `comments` in JSX?
+- What is `<React.Fragment></React.Fragment>` and `<></>`?
+- What is `Reconciliation` in React?
+- What is `React Fiber`?
+- Why do we need `keys` in React?
+- Can we use `index as keys` in React?
+- What is `props in React`? Ways to.
+- What is `Config Driven UI`?
+
+---
+
+## 📚 [Chapter 05 - Let's get Hooked!](https://github.com/SunilKumarKV/namaste-react/tree/main/Episode%20-%2002%20-%20Igniting%20our%20App)
+
+- What is the `difference` between `Named export`, `Default export`, and `* as export`?
+- What is the `importance` of `config.js` file?
+- What are `React Hooks`?
+- Why do we need `useState Hook`?
+
+---
